@@ -167,7 +167,7 @@ class little_little_verylittle_neuralnetwork:
         self,
         x,
         y,
-        epochs=100,
+        epochs=50,
         learning_rate=0.01
     ):
 
